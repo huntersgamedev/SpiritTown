@@ -1,0 +1,13 @@
+C:\Users\Hunter\Documents\SpiritTown\SpiritTown\Intermediate\Build\Win64\UE4Editor\Development\SpiritTown\Definitions.SpiritTown.h
+c:\users\hunter\documents\spirittown\spirittown\source\spirittown\SpiritTownGameMode.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Hunter\Documents\SpiritTown\SpiritTown\Intermediate\Build\Win64\UE4Editor\Inc\SpiritTown\SpiritTownGameMode.generated.h
+c:\users\hunter\documents\spirittown\spirittown\source\spirittown\SpiritTownCharacter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Hunter\Documents\SpiritTown\SpiritTown\Intermediate\Build\Win64\UE4Editor\Inc\SpiritTown\SpiritTownCharacter.generated.h
