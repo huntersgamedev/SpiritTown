@@ -1,2 +1,2 @@
-C:\Users\Hunter\Documents\SpiritTown\SpiritTown\Intermediate\Build\Win64\UE4Editor\Development\SpiritTown\Definitions.SpiritTown.h
-c:\users\hunter\documents\spirittown\spirittown\source\spirittown\SpiritTown.h
+C:\Users\Willonfire\Documents\SpiritTown\SpiritTown\Intermediate\Build\Win64\UE4Editor\Development\SpiritTown\Definitions.SpiritTown.h
+c:\users\willonfire\documents\spirittown\spirittown\source\spirittown\SpiritTown.h

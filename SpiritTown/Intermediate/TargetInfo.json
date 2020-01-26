@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "SpiritTown",
-			"Path": "C:\\Users\\Hunter\\Documents\\SpiritTown\\SpiritTown\\Source\\SpiritTown.Target.cs",
+			"Path": "C:\\Users\\Willonfire\\Documents\\SpiritTown\\SpiritTown\\Source\\SpiritTown.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "SpiritTownEditor",
-			"Path": "C:\\Users\\Hunter\\Documents\\SpiritTown\\SpiritTown\\Source\\SpiritTownEditor.Target.cs",
+			"Path": "C:\\Users\\Willonfire\\Documents\\SpiritTown\\SpiritTown\\Source\\SpiritTownEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
