@@ -23,7 +23,7 @@
 		},
 		{
 			"Name": "ProductivityTools",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8beef99c4399462189d66689e2b48475"
 		}
 	]
