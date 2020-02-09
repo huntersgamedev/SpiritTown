@@ -10,8 +10,8 @@
 	{
 		"MajorVersion": 4,
 		"MinorVersion": 24,
-		"PatchVersion": 1,
-		"Changelist": 10757647,
+		"PatchVersion": 2,
+		"Changelist": 11100242,
 		"CompatibleChangelist": 10570792,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 1,
@@ -74,14 +74,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/Prefabricator/Binaries/Win64/UE4Editor-PrefabricatorEditorPostInit.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ProductivityToolsLite/Binaries/Win64/UE4Editor-ProductivityTools.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ProductivityToolsLite/Binaries/Win64/UE4Editor-ProductivityTools.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -2089,10 +2081,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ProductivityToolsLite/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2420,10 +2408,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/Prefabricator/Prefabricator.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ProductivityToolsLite/ProductivityTools.uplugin",
 			"Type": "UFS"
 		},
 		{
